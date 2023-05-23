@@ -29,6 +29,7 @@ let Ghazi = {
 console.log(Ghazi);
 console.log(Ghazi.id())
 console.log(Ghazi.salary("Senior"))
+
 document.write(`<p> Employee name: ${Ghazi.fullName}</p>`)
 document.write(`<p> Employee salary: ${Ghazi.salary("Senior")}</p>`)
 
