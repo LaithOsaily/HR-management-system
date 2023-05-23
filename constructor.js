@@ -67,10 +67,3 @@ Employees.prototype.renderEmployees =function () {
 for (let i = 0; i < allEmployees.length; i++) {
     allEmployees[i].renderEmployees();
 }
-
-
-
-
-
-
-
